@@ -50,6 +50,16 @@ wrong, where, and what to do about it, then carries that record through to the
 buyer as a scannable crop passport. Built for African growing conditions, from
 smallholder plots to commercial blocks.
 
+It also connects the farm around the photo. You say, in plain words, how things
+are wired: this pump waters Block 3, that solar array powers the pump, this
+soil probe measures the field. From then on the data talks to itself: a dry
+reading becomes "irrigate Block 3 with Pump P-02", with the forecast, the crop's
+stage and the pump's power checked for you, and a what-if (do nothing, water
+tomorrow, water in three days) before you commit. Your farm can also be
+exported in open formats (FIWARE NGSI-LD and OGC SensorThings) for other
+systems. These arrive in Rigo Studio on the web first, then in the next desktop
+release.
+
 ## Support
 
 [agririgo.com/contact](https://agririgo.com/contact)
